@@ -1,7 +1,7 @@
 ### Hi there 👋 This is YHY's world 🇨🇳
 - :octocat: 博客 : http://fireline.fun/
 - :satellite: 微信公众号: 谁不想当剑仙
-- https://raw.githack.com/yhy0/PicGoImg/ed84a34833e3682fa0638d825f6e0ccfceaa18c1/goby/20210310205241.jpg
+https://rawcdn.githack.com/yhy0/PicGoImg/ed84a34833e3682fa0638d825f6e0ccfceaa18c1/goby/20210310205241.jpg
 <!--
 **yhy0/yhy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
