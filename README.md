@@ -2,7 +2,8 @@
 - :globe_with_meridians: 博客 : http://fireline.fun/
 - :tada: 微信公众号: 谁不想当剑仙
 - ![qrcode_for_gh_05f7cf7b2ec2_258](https://rawcdn.githack.com/yhy0/PicGoImg/ed84a34833e3682fa0638d825f6e0ccfceaa18c1/goby/20210310205241.jpg)
-- :octocat: My Github: [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhy0)](https://github.com/anuraghazra/github-readme-stats)
+- :octocat: My Github: 
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhy0)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
