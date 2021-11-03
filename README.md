@@ -1,25 +1,16 @@
-### Hi there 👋 This is yhy's world 🇨🇳
+### Hi there 👋   This is yhy's world 🇨🇳
 - :globe_with_meridians: 博客 : https://fireline.fun/
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yhy0&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yhy0&show_icons=true" />
 
 - :tada: 微信公众号: 谁不想当剑仙  
 ![qrcode_for_gh_05f7cf7b2ec2_258](https://rawcdn.githack.com/yhy0/PicGoImg/ed84a34833e3682fa0638d825f6e0ccfceaa18c1/goby/20210310205241.jpg)
 
-<!--
-- :octocat: My Github:  
-[![myslef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhy0)](https://github.com/anuraghazra/github-readme-stats)
--->
-<!--
-**yhy0/yhy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="left" style="display: inline-block;"> &#x1f92b; Github Visitors   <img align="right" src="https://profile-counter.glitch.me/yhy0/count.svg" /> </h2> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## &#x1f4dd; Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhy0&hide=html)](https://fireline.fun/)
+
