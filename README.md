@@ -1,5 +1,6 @@
 ### Hi there 👋   This is yhy's world 🇨🇳
-- :globe_with_meridians: 博客 : https://fireline.fun/
+- :globe_with_meridians: 博客 : https://fireline.fun/ 
+- https://jie.fireline.fun/
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yhy0&show_icons=true" />
 
