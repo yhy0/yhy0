@@ -12,9 +12,9 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhy0&hide=html"></td>
+    <td><img src="https://github-readme-stats-blue-seven-31.vercel.app/api/top-langs/?username=yhy0&hide=html"></td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yhy0&show_icons=true"/> 
+      <img src="https://github-readme-stats-blue-seven-31.vercel.app/api?username=yhy0&show_icons=true"/> 
       <br/>
       <h2 align="left" style="display: inline-block;"> &#x1f92b; Github Visitors   <img align="right" src="https://profile-counter.glitch.me/yhy0/count.svg" /> </h2> 
     </td>
