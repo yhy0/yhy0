@@ -1,5 +1,9 @@
 ### Hi there 👋   This is yhy's world 🇨🇳
 
+- :tada: 承影 : [https://su.fireline.fun/](https://github.com/yhy0/CHYing)    开源的类 BurpSuite 应用
+- :tada: 承影 Agent : [[https://su.fireline.fun/](https://github.com/yhy0/CHYing)](https://github.com/yhy0/CHYing-agent)    CTF/自动化渗透 Agent
+  - [2025 腾讯云黑客松智能体挑战赛 Top9](https://zc.tencent.com/competition/competitionHackathon?code=cha004)
+  - [通关 Wiz Bug Bounty Masterclass Certificate](https://www.wiz.io/bug-bounty-masterclass/certificate/e814db9f-92d3-49b6-a165-de80b76667e5)
 - 📖 博客 : https://fireline.fun/   
 - :tada: 扫描器 : https://jie.fireline.fun/    src、hackerone 捡洞的全部希望
 - :tada: 素问 : https://su.fireline.fun/    一个用于展示漏洞情报的网站
