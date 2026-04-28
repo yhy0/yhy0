@@ -2,7 +2,8 @@
 
 - :tada: 承影 : [ChYing](https://github.com/yhy0/CHYing)    开源的类 BurpSuite 应用
 - :tada: 承影 Agent : [ChYing Agent](https://github.com/yhy0/CHYing-agent)  -  CTF/自动化渗透 Agent
-  - [2025 腾讯云黑客松智能体挑战赛 Top9](https://zc.tencent.com/competition/competitionHackathon?code=cha004)
+  - [2025 第一届 腾讯云黑客松智能体挑战赛 Top9](https://zc.tencent.com/competition/competitionHackathon?code=cha004)
+  - 2026 第二届腾讯云黑客松智能体挑战赛 -主赛场 Top60，零界赛场冠军
   - [通关 Wiz Bug Bounty Masterclass Certificate](https://www.wiz.io/bug-bounty-masterclass/certificate/e814db9f-92d3-49b6-a165-de80b76667e5)
 - :tada: MoYe Agent :  [莫邪 Agent](https://github.com/yhy0/Moye-agent) - WebShell 自动化绕过平台
   - [阿里云第五届伏魔挑战赛 PHP 赛道 Top30](https://yundun.console.aliyun.com/?p=xznew&accounttraceid=cba6bc37a884451e9eae1efd2e25c866kajj#/taskmanagement/tasks/detail/302)
